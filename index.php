@@ -17,36 +17,36 @@
       <div class="row">
         <div class="col-sm-6">
           <img
-            src="img/banner6.jpg"
+            src="banner6.jpg"
             style="height: 100%; width: 100%"
             class="img-fluit img-thumbnail"
           />
         </div>
         <div class="col-sm-2">
           <img
-            src="img/rabbit2.jpg"
+            src="rabbit2.jpg"
             style="height: 33.33%; width: 100%"
             class="img-fluit img-thumbnail"
           />
           <img
-            src="img/work1.jpg"
+            src="work1.jpg"
             style="height: 33.33%; width: 100%"
             class="img-fluit img-thumbnail"
           />
           <img
-            src="img/work2.jpg"
+            src="work2.jpg"
             style="height: 33.33%; width: 100%"
             class="img-fluit img-thumbnail"
           />
         </div>
         <div class="col-sm-4">
           <img
-            src="img/work3.jpg"
+            src="work3.jpg"
             style="height: 60%; width: 100%"
             class="img-fluit img-thumbnail"
           />
           <img
-            src="img/banner1.jpg"
+            src="banner1.jpg"
             style="height: 40%; width: 100%"
             class="img-fluit img-thumbnail"
           />
